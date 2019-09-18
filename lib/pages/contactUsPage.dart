@@ -32,9 +32,9 @@ class _ContactUsPageState extends State<ContactUsPage> {
   List<String> des=["(Director","(Co-Director","(Co-Director","Organizer (Technical","Organizer (Design","Organizer (Participants","Organizer (Content","Organizer (Collaboration","Organizer (Marketing","Organizer (Sponsorship","Organizer (IR","Organizer (Collaboration",
 "Organizer (Finance", "Organizer (Logistics","Organizer (Participants","Organizer (Logistics","Organizer (Marketing"];
 
-  List<String> image=["lib/assests/Druvang_Wagh.jpg", "lib/assests/Hardik_Kataria.jpg", "lib/assests/Ekaansh_Arora.jpg", "lib/assests/Ayush_Priya.jpg", "lib/assests/Samarth_Nayyar.jpg", "lib/assests/Kriti_Kacker.jpg",
-  "lib/assests/Naynika_Wason.jpg","lib/assests/Meherdeep_Thakur.jpg" , "lib/assests/Harshil_parekh.jpg","lib/assests/Dhruvika_Sharma.JPG",  "lib/assests/Shaanvi_mehta.jpg","lib/assests/Pranav_Sharma.jpg", "lib/assests/Rohan_Kumar.jpg", "lib/assests/Vipul_Kothari.jpg", "lib/assests/Sameeran_Bandishti.jpg",
-  "lib/assests/Shreyansh_Ojha.jpg", "lib/assests/Harshil_parekh.jpg"];
+  List<String> image=["lib/assests/Druvang_Wagh.webp", "lib/assests/Hardik_Kataria.webp", "lib/assests/Ekaansh_Arora.webp", "lib/assests/Ayush_Priya.webp", "lib/assests/Samarth_Nayyar.webp", "lib/assests/Kriti_Kacker.webp",
+  "lib/assests/Naynika_Wason.webp","lib/assests/Meherdeep_Thakur.webp" , "lib/assests/Harshil_parekh.webp","lib/assests/Dhruvika_Sharma.webp",  "lib/assests/Shaanvi_mehta.webp","lib/assests/Pranav_Sharma.webp", "lib/assests/Rohan_Kumar.webp", "lib/assests/Vipul_Kothari.webp", "lib/assests/Sameeran_Bandishti.webp",
+  "lib/assests/Shreyansh_Ojha.webp", "lib/assests/Harshil_parekh.webp"];
 
   List<String> number=["8369091192","8860445756","8860092479","7530000626","9818288112","8004936388","8894721774","8700865402","9624099868","8270796086","9818489663","9811069173",
   "9629888511","9460284864","7350190101","7023398836","9624099868"];

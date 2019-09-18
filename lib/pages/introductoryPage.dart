@@ -73,7 +73,7 @@ class IntroScreenState extends State<IntroScreen> {
             color: Colors.black,
             fontSize: 16.0,
             fontFamily: 'Raleway'),
-        pathImage: 'lib/assests/talks.png',
+        pathImage: 'lib/assests/talks.webp',
       ),
     );
     slides.add(
@@ -101,7 +101,7 @@ class IntroScreenState extends State<IntroScreen> {
             color: Colors.black,
             fontSize: 16.0,
             fontFamily: 'Raleway'),
-        pathImage: 'lib/assests/chair.png',
+        pathImage: 'lib/assests/chair.webp',
       ),
     );
   }

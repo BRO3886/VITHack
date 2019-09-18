@@ -60,8 +60,18 @@ class _QRCodePageState extends State<QRCodePage> {
           setState(() {
           email=res; 
           currentIndex=1;
+    
 
     });
+
+           futureIndex=s.getIndex();
+            futureIndex.then((res){
+              setState(() {
+                index=res;
+                selectedEmail=emailList[index];
+              });
+            });
+            
        }
     });
 
@@ -82,13 +92,13 @@ class _QRCodePageState extends State<QRCodePage> {
         });
 
     });
-    futureIndex=s.getIndex();
-    futureIndex.then((res){
-      setState(() {
-        index=res;
-        selectedEmail=emailList[index];
-      });
-    });
+    // futureIndex=s.getIndex();
+    // futureIndex.then((res){
+    //   setState(() {
+    //     index=res;
+    //     selectedEmail=emailList[index];
+    //   });
+    // });
 
   }
 

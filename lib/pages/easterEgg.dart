@@ -88,13 +88,13 @@ Padding(padding: EdgeInsets.all(2),),
 Icon(MyFlutterApp.heart_1,size: 16,color: Colors.blue,),
                 Padding(padding: EdgeInsets.all(2),),
                 Text(" by "),
-                Image.asset("lib/assests/dsclogo.png",height: 16,),
+                Image.asset("lib/assests/dsclogo.webp",height: 16,),
                 Text(" DSC-VIT")
 
               ],
             )
           ),
-          Image.asset("lib/assests/group_picture.jpg"),
+          Image.asset("lib/assests/group_picture.webp"),
           Container(
             padding: EdgeInsets.all(10.0),
             child: Text("From left to right:"),

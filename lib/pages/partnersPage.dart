@@ -334,7 +334,7 @@ Widget PromotionsPage(){
                   child: Column(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: <Widget>[
-                      Image.asset('lib/assests/valeo.png' , width: (MediaQuery.of(context).size.width/2)-32, height: 100.0,),
+                      Image.asset('lib/assests/valeo.webp' , width: (MediaQuery.of(context).size.width/2)-32, height: 100.0,),
                     ],
                   )),),
 
@@ -362,7 +362,7 @@ Widget PromotionsPage(){
            child: Column(
              mainAxisAlignment: MainAxisAlignment.center,
              children: <Widget>[
-               Image.asset('lib/assests/Honeywell.jpg' , width: (MediaQuery.of(context).size.width/2)-32, height: 100.0,),
+               Image.asset('lib/assests/Honeywell.webp' , width: (MediaQuery.of(context).size.width/2)-32, height: 100.0,),
              ],
            )),),
 
@@ -390,7 +390,7 @@ Widget PromotionsPage(){
                   child: Column(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: <Widget>[
-                      Image.asset('lib/assests/crodera.png' , width: (MediaQuery.of(context).size.width/2)-32, height: 100.0,),
+                      Image.asset('lib/assests/crodera.webp' , width: (MediaQuery.of(context).size.width/2)-32, height: 100.0,),
                     ],
                   )),),
           GestureDetector(
@@ -417,7 +417,7 @@ Widget PromotionsPage(){
                   child: Column(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: <Widget>[
-                      Image.asset('lib/assests/codeasylums.png' , width: (MediaQuery.of(context).size.width/2)-32, height: 100.0,),
+                      Image.asset('lib/assests/codeasylums.webp' , width: (MediaQuery.of(context).size.width/2)-32, height: 100.0,),
                     ],
                   )),),
 
@@ -441,7 +441,7 @@ Widget PromotionsPage(){
            child: Column(
              mainAxisAlignment: MainAxisAlignment.center,
              children: <Widget>[
-               Image.asset('lib/assests/deevia.png' , width: (MediaQuery.of(context).size.width/2)-32, height: 100.0,),
+               Image.asset('lib/assests/deevia.webp' , width: (MediaQuery.of(context).size.width/2)-32, height: 100.0,),
              ],
            )),
 
@@ -465,7 +465,7 @@ Widget PromotionsPage(){
            child: Column(
              mainAxisAlignment: MainAxisAlignment.center,
              children: <Widget>[
-               Image.asset('lib/assests/servify.png' , width: (MediaQuery.of(context).size.width/2)-32, height: 100.0,),
+               Image.asset('lib/assests/servify.webp' , width: (MediaQuery.of(context).size.width/2)-32, height: 100.0,),
              ],
            )),
            Container(
@@ -488,7 +488,7 @@ Widget PromotionsPage(){
            child: Column(
              mainAxisAlignment: MainAxisAlignment.center,
              children: <Widget>[
-               Image.asset('lib/assests/inversion.png' , width: (MediaQuery.of(context).size.width/2)-32, height: 100.0,),
+               Image.asset('lib/assests/inversion.webp' , width: (MediaQuery.of(context).size.width/2)-32, height: 100.0,),
              ],
            )),
            Container(
@@ -511,7 +511,7 @@ Widget PromotionsPage(){
            child: Column(
              mainAxisAlignment: MainAxisAlignment.center,
              children: <Widget>[
-               Image.asset('lib/assests/vicara.jpg' , width: (MediaQuery.of(context).size.width/2)-32, height: 100.0,),
+               Image.asset('lib/assests/vicara.webp' , width: (MediaQuery.of(context).size.width/2)-32, height: 100.0,),
              ],
            )),
 
@@ -535,7 +535,7 @@ Widget PromotionsPage(){
            child: Column(
              mainAxisAlignment: MainAxisAlignment.center,
              children: <Widget>[
-               Image.asset('lib/assests/agri.png' , width: (MediaQuery.of(context).size.width/2)-32, height: 100.0,),
+               Image.asset('lib/assests/agri.webp' , width: (MediaQuery.of(context).size.width/2)-32, height: 100.0,),
              ],
            )),
            
@@ -559,7 +559,7 @@ Widget PromotionsPage(){
            child: Column(
              mainAxisAlignment: MainAxisAlignment.center,
              children: <Widget>[
-               Image.asset('lib/assests/aihub.png' , width: (MediaQuery.of(context).size.width/2)-32, height: 100.0,),
+               Image.asset('lib/assests/aihub.webp' , width: (MediaQuery.of(context).size.width/2)-32, height: 100.0,),
              ],
            )),
            
@@ -613,7 +613,7 @@ Widget PromotionsPage(){
                               child: Column(
                                 mainAxisAlignment: MainAxisAlignment.center,
                                 children: <Widget>[
-                                  Image.asset('lib/assests/challengeRocket.png' , width: (MediaQuery.of(context).size.width/2)-32, height: 100.0,),
+                                  Image.asset('lib/assests/challengeRocket.webp' , width: (MediaQuery.of(context).size.width/2)-32, height: 100.0,),
                                 ],
                               )),),
 
@@ -662,7 +662,7 @@ Widget PromotionsPage(){
                               child: Column(
                                 mainAxisAlignment: MainAxisAlignment.center,
                                 children: <Widget>[
-                                  Image.asset('lib/assests/github.png' , width: (MediaQuery.of(context).size.width/2)-32, height: 100.0,),
+                                  Image.asset('lib/assests/github.webp' , width: (MediaQuery.of(context).size.width/2)-32, height: 100.0,),
                                 ],
                               )),
                       ],),
@@ -712,7 +712,7 @@ Widget CollaboratorsPage(){
                   child: Column(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: <Widget>[
-                      Image.asset('lib/assests/tekno.png' , width: (MediaQuery.of(context).size.width/2)-32, height: 100.0,),
+                      Image.asset('lib/assests/tekno.webp' , width: (MediaQuery.of(context).size.width/2)-32, height: 100.0,),
                     ],
                   )),),
             Container(
@@ -762,7 +762,7 @@ Widget CollaboratorsPage(){
                   child: Column(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: <Widget>[
-                      Image.asset('lib/assests/reliance.png' , width: (MediaQuery.of(context).size.width/2)-32, height: 100.0,),
+                      Image.asset('lib/assests/reliance.webp' , width: (MediaQuery.of(context).size.width/2)-32, height: 100.0,),
                     ],
                   )),),
             
@@ -790,7 +790,7 @@ Widget CollaboratorsPage(){
                   child: Column(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: <Widget>[
-                      Image.asset('lib/assests/edtimes.png' , width: (MediaQuery.of(context).size.width/2)-32, height: 100.0,),
+                      Image.asset('lib/assests/edtimes.webp' , width: (MediaQuery.of(context).size.width/2)-32, height: 100.0,),
                     ],
                   )),),
         Container(
@@ -813,7 +813,7 @@ Widget CollaboratorsPage(){
                   child: Column(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: <Widget>[
-                      Image.asset('lib/assests/tbi.png' , width: (MediaQuery.of(context).size.width/2)-32, height: 100.0,),
+                      Image.asset('lib/assests/tbi.webp' , width: (MediaQuery.of(context).size.width/2)-32, height: 100.0,),
                     ],
                   )),
                    
